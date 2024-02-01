@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "livecode.core", ".\livecode.core\livecode.core.csproj", "{70862A38-EF6F-4EE6-A2CA-B539AD37C583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "livecode.core.test", ".\livecode.core.test\livecode.core.test.csproj", "{6A94D4E0-3EB4-4994-B9D4-97A548E86145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C76FDF55-A342-4AD4-9F50-5C2AB681C6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76FDF55-A342-4AD4-9F50-5C2AB681C6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76FDF55-A342-4AD4-9F50-5C2AB681C6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76FDF55-A342-4AD4-9F50-5C2AB681C6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70862A38-EF6F-4EE6-A2CA-B539AD37C583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70862A38-EF6F-4EE6-A2CA-B539AD37C583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70862A38-EF6F-4EE6-A2CA-B539AD37C583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70862A38-EF6F-4EE6-A2CA-B539AD37C583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A94D4E0-3EB4-4994-B9D4-97A548E86145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A94D4E0-3EB4-4994-B9D4-97A548E86145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A94D4E0-3EB4-4994-B9D4-97A548E86145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A94D4E0-3EB4-4994-B9D4-97A548E86145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {068899CD-E96D-4576-B888-AED39CEFDD0D}
+	EndGlobalSection
+EndGlobal

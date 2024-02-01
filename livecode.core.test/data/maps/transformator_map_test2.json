@@ -1,0 +1,17 @@
+[
+  {
+    "map": [
+      {
+        "target": "lastname",
+        "input": "firstname"
+      },
+      {
+        "target": "firstname",
+        "input": {
+          "type": "const",
+          "value":  "123"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "map": [
+      {
+        "target": "lastname",
+        "input": "firstname"
+      },
+      {
+        "target": "firstname",
+        "input": "lastname"
+      }
+    ]
+  }
+]
